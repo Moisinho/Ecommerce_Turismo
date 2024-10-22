@@ -16,15 +16,6 @@ function Navbar() {
           Inicio
         </Link>
         <Link
-          to="/nosotros"
-          className="font-bold mr-4 text-lg"
-          style={{ color: '#4a5568', textDecoration: 'none' }}
-          onMouseOver={(e) => e.currentTarget.style.color = '#f97316'}
-          onMouseOut={(e) => e.currentTarget.style.color = '#4a5568'}
-        >
-          Nosotros
-        </Link>
-        <Link
           to="/products"
           className="font-bold mr-4 text-lg"
           style={{ color: '#4a5568', textDecoration: 'none' }}
@@ -32,6 +23,15 @@ function Navbar() {
           onMouseOut={(e) => e.currentTarget.style.color = '#4a5568'}
         >
           Comercio
+        </Link>
+        <Link
+          to="/nosotros"
+          className="font-bold mr-4 text-lg"
+          style={{ color: '#4a5568', textDecoration: 'none' }}
+          onMouseOver={(e) => e.currentTarget.style.color = '#f97316'}
+          onMouseOut={(e) => e.currentTarget.style.color = '#4a5568'}
+        >
+          Nosotros
         </Link>
       </nav>
     </header>
