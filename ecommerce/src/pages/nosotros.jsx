@@ -116,45 +116,44 @@ function Nosotros() {
           <div className="p-4 h-32 text-center w-full">
             <h3 className="text-2xl font-bold mb-2 text-green-600">Nadim García</h3>
             <p className="text-gray-600">
-              Breve descripción del integrante 3, su rol en el equipo y cualquier otra información relevante.
+              Estudiante de Licenciatura en Desarrollo de Software en la Universidad Tecnológica de Panamá.
             </p>
           </div>
 
           <div className="overflow-y-auto max-h-96 w-full px-4">
-                <div className="p-4">
+              <div className="p-4">
                 <h4 className="text-lg font-bold mb-2 text-green-600">Contacto</h4>
                 <ul className="text-gray-600">
-                    <li>Teléfono: 6639-7778</li>
-                    <li>Correo: odetharevalo26@gmail.com</li>
+                  <li>Teléfono: +507 6508-8531</li>
+                  <li>Correo: nadim.garcia@utp.ac.pa</li>
                 </ul>
-                </div>
+              </div>
 
-                <div className="p-4">
+              <div className="p-4">
                 <h4 className="text-lg font-bold mb-2 text-green-600">Conocimientos</h4>
                 <ul className="list-disc list-inside text-gray-600">
-                    <li>Nivel intermedio en programación orientada a objetos con Java</li>
-                    <li>Nivel avanzado en Tailwind CSS</li>
-                    <li>Desarrollo web Front-end y Back-end</li>
-                    <li>Manejo de Microsoft Office (Word, Excel, PowerPoint)</li>
-                    <li>Inglés de negocios básico</li>
-                    <li>Desarrollo de aplicaciones Android con Kotlin</li>
+                  <li>Nivel avanzado en JavaScript y frameworks modernos</li>
+                  <li>Experiencia en diseño responsivo con Tailwind CSS</li>
+                  <li>Desarrollo web Full Stack con React y Node.js</li>
+                  <li>Uso avanzado de herramientas de control de versiones como Git</li>
+                  <li>Inglés técnico intermedio</li>
+                  <li>Desarrollo de aplicaciones móviles con Flutter</li>
                 </ul>
-                </div>
+              </div>
 
-                <div className="p-4">
+              <div className="p-4">
                 <h4 className="text-lg font-bold mb-2 text-green-600">Habilidades</h4>
                 <ul className="list-disc list-inside text-gray-600">
-                    <li>Puntualidad</li>
-                    <li>Adaptabilidad</li>
-                    <li>Responsabilidad</li>
-                    <li>Iniciativa</li>
-                    <li>Disciplina</li>
-                    <li>Pensamiento crítico</li>
-                    <li>Resolución de problemas</li>
+                  <li>Organización y gestión de tareas</li>
+                  <li>Trabajo en equipo multidisciplinario</li>
+                  <li>Comunicación efectiva</li>
+                  <li>Innovación y creatividad</li>
+                  <li>Capacidad de aprendizaje autónomo</li>
+                  <li>Resolución de conflictos</li>
+                  <li>Trabajo bajo presión</li>
                 </ul>
-                </div>
-          </div>
-          
+              </div>
+            </div>
         </div>
       </div>
     </div>
